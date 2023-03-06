@@ -1,0 +1,79 @@
+﻿.divProducts {
+    width: 50%;
+    text-align: center;
+}
+
+.divPage {
+    padding-top: 40px;
+    width: auto;
+}
+
+.divFilter {
+    padding-right: 20px;
+    width: 50%;
+}
+
+.divInstructions {
+    padding-top: 40px;
+    float: right;
+    width: 500px;
+    border-bottom: 1px solid red;
+}
+
+.divLinks {
+    float: right;
+    width: 500px;
+}
+
+.lblPanelTitle {
+    font-weight: bold;
+    font-size: larger;
+    color: grey;
+}
+
+.lblYear {
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.lblProcessRev{
+    font-weight: bold;
+    color:#0099ff;
+    font-size: larger;
+}
+
+.lblMonth {
+    font-weight: bold;
+    padding-left: 20px;
+    margin-top: 30px;
+}
+
+.form-container {
+    position:absolute;
+    top:15vh;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #352c2c;   
+    opacity:0.8; 
+    width:300px;
+   
+}
+.bg {
+    background: url('../Images/adheris-office.jpg') no-repeat ;
+    width:100%; 
+    height:100vh; 
+    background-size:100%; 
+}
+.justify-content-center {
+  -ms-flex-pack: center !important;
+  justify-content: center !important;
+}
+.navbar {
+    margin-bottom: 10px !important;
+}
+.container {
+padding-left:0px; 
+padding-right:0px; 
+width:98%;
+}
